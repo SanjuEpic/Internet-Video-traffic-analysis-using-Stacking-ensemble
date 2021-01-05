@@ -1,4 +1,3 @@
 # Internet-Video-traffic-analysis-using-Stacking-Ensemble-in-ML
-classifying the internet video traffic into three categories of video-conferencing, subscription based, non-subscription based video we had used prime, netflix, youtube, dailymotion, Webex, Gmeet services traffic
-Prepared the dataset with the help of wireshark tool and argus-client and preprocessed using pandas
-Classified the model using ensemble techniques like stacking of four different algortihms.
+In this project, we have first collected various network traffic of video streaming services like Amazon Prime, Netflix, Youtube, Dailymotion,  Cisco Webex, and G-meet. We then preprocessed the dataset with the imputation of the missing values, binned by mean, and variance on various attributes, label encoded the categorical attributes, analyzed outliers with the help of boxplots, removed skewness present in the dataset, performed feature selection with the help of correlation
+And then worked on model classification with stacking ensemble technique where we stacked 4 different algorithms namely, Gradient Boosted Decision Tree, SVM, k-NN as base learners and XGBoost as meta-learner, we achieved 98.6% of accuracy and plotted confusion matrix for false positives (which were very negligible) and checked other performance metrics like precision, accuracy, recall, and f1-score too.
