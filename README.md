@@ -1,6 +1,6 @@
 # Internet-Video-traffic-analysis-using-Stacking-Ensemble-in-ML
 
-## Introduction
+### Introduction
     Since many years, the demand for high speed transmission rates over the 
     internet has become a clear problem and it has been evident amid this pandemic.
 
