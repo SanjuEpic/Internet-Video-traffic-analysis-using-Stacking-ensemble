@@ -21,12 +21,12 @@
  
    ### Constraints set while capturing the dataset :
 
-    *Allowing protocols of UDP , TCP and HTTP only. These are the protocols followed by the network for video transmission. 
+    - Allowing protocols of UDP , TCP and HTTP only. These are the protocols followed by the network for video transmission. 
      When using this protocol other protocols which are   using the machine are left out like ARP requests , SMTP protocols 
      for mails are excluded while capturing.
-    *The videos were captured for 1 hour unrestricted on different machines and for several days.
-    *The source and destination IP address were dropped off.
-    *Length of packet size is fixed to a certain threshold.
+    - The videos were captured for 1 hour unrestricted on different machines and for several days.
+    - The source and destination IP address were dropped off.
+    - Length of packet size is fixed to a certain threshold.
 
     With these constraints applied we were able to capture a total of around 23,000 packets for each streaming platform.
     
