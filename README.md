@@ -6,7 +6,7 @@
 
    ![image](https://user-images.githubusercontent.com/57587354/108511246-a9655600-72e5-11eb-8c30-82d6ef01fe78.png)
 
-    So yeah prioritizing the live video streaming services(like Cisco Webex, G-meet,Zoom) should be our top prior concern
+    So prioritizing the live video streaming services(like Cisco Webex, G-meet,Zoom) should be our top prior concern
     Short video on demand services are instagram, tiktok, vigo etc.
     Long video on demand services are netflix, youtube, prime video, etc.
    ![image](https://user-images.githubusercontent.com/57587354/108511284-b71adb80-72e5-11eb-9a17-ef894e300884.png)
